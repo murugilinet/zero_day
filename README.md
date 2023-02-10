@@ -1,1 +1,3 @@
-# This file is mandatory in projects
+# Vagrant
+## Vagrant - or - how to code in your local computer
+Virtual machine
